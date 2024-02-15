@@ -107,3 +107,4 @@ www.*.passthepopcorn.my
 passthepopcorn.com.au
 gazellegames.net
 torrentinvites.org
+router.bittorrent.com
