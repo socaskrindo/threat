@@ -110,3 +110,4 @@ torrentinvites.org
 router.bittorrent.com
 tracker.dler.org
 www.*.anoboy.pro
+bt.t-ru.org
