@@ -28,3 +28,6 @@ www.update.vscreenshot.com
 www.bestresulttostart.com
 www.samehadaku.at
 www.js.nextpsh.top
+www.init.crash-analytics.com
+www.init.icloud-diagnostics.com
+www.init.icloud-analysis.com
