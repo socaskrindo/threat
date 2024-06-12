@@ -1,6 +1,7 @@
 # Date of generation: 2024-05-03T23.371681
 update.vscreenshot.com
 0.fres-news.com
+software.oldversion.com
 0202.com.tw
 109.197.125.34.bc.googleusercontent.com
 2020logs.duckdns.org
