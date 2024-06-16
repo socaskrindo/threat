@@ -647,3 +647,4 @@ s.apusapps.com
 http://spotprod1.sucorsekuritas.com/spot.jar
 nl78.trafcfy.com
 trafcfy.com
+t.amynx.com
