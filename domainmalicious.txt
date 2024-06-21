@@ -1,4 +1,16 @@
 # Date of generation: 2024-05-03T23.371681
+# Web Trading
+mql5.com
+metatrader4.com
+metaquotes.net
+etnasoft.com
+forex.com
+forum.mql4.com
+admiralmarkets.com
+modulusfe.com
+tom-next.com
+tradingview.com
+#
 update.vscreenshot.com
 0.fres-news.com
 software.oldversion.com
