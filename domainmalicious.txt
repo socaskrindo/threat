@@ -1,5 +1,6 @@
 # Date of generation: 2024-05-03T23.371681
 # Web Trading
+https://80.78.24.250
 mql5.com
 metatrader4.com
 metaquotes.net
