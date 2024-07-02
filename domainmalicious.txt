@@ -1,5 +1,5 @@
 # Date of generation: 2024-05-03T23.371681
-# Web Trading
+# Web-Trading
 https://80.78.24.250
 mql5.com
 metatrader4.com
@@ -11,7 +11,7 @@ admiralmarkets.com
 modulusfe.com
 tom-next.com
 tradingview.com
-#
+# Malicious-URL
 update.vscreenshot.com
 0.fres-news.com
 software.oldversion.com
@@ -743,3 +743,6 @@ www.htwqzczce.biz
 ww7.htwqzczce.biz
 ww12.htwqzczce.biz
 htwqzczce.biz
+# Phising
+go-g3t-s0me.net
+go-get-msg.net
