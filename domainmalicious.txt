@@ -751,3 +751,5 @@ http://ww82.thescreensnapshot.com/
 short.im-gb.com
 chat.ptkcg.co.id
 sw.cowtpvi.com
+# Parked Domain
+softwarehelpdata.com
