@@ -753,3 +753,7 @@ chat.ptkcg.co.id
 sw.cowtpvi.com
 # Parked Domain
 softwarehelpdata.com
+http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=77777777777777777777777777777777777777
+http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=[32-characters]
+c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion
+weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion
