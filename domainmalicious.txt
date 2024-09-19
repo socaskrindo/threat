@@ -759,13 +759,6 @@ http://ww82.thescreensnapshot.com/
 short.im-gb.com
 chat.ptkcg.co.id
 sw.cowtpvi.com
-# Parked Domain
-softwarehelpdata.com
-http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=77777777777777777777777777777777777777
-http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=[32-characters]
-c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion
-weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion
-# Phishing
 s1.lk21static.xyz
 mak3mxq.blogspot.com
 deliv12.com
@@ -779,6 +772,14 @@ entrepasteles.supercurro.net
 m-uhde.de
 games.usc.edu
 doedlinget-erdbau.at
+pratita.com
+pranacitra.pratita.com
+# Parked Domain
+softwarehelpdata.com
+http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=77777777777777777777777777777777777777
+http://c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion/?id=[32-characters]
+c7jpc6h2ccrdwmhofuij7kz6sr2fg2ndtbvvqy4fse23cf7m2e5hvqid.onion
+weg7sdx54bevnvulapqu6bpzwztryeflq3s23tegbmnhkbpqz637f2yd.onion
 #Ransomware_Play_Shortner Link
 vf8.us
 2ug.us
