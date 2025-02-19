@@ -518,7 +518,6 @@ steamcomnnulty.com
 stearnconmunity.net
 stoic-elion.34-125-197-109.plesk.page
 stopcoronavirus.us.org
-storage.googleapis.com
 streamvideobox.com
 studentschoicedwi.com
 su.vc
@@ -752,12 +751,10 @@ ww12.htwqzczce.biz
 htwqzczce.biz
 # Phising
 business.bing.com
-ajax.googleapis.com
 bzib.nelreports.net
 cdn.jsdelivr.net
 cdnjs.cloudflare.com
 code.jquery.com
-fonts.googleapis.com
 cahaya.anyonecansee.makeup
 go-g3t-s0me.net
 go-get-msg.net
